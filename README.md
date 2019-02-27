@@ -18,7 +18,7 @@ Software Developer with experience producing live video. Experience in the softw
 _(Consultant) Just Text AL - Hawthorne, CA | February, 2019_  
 Remote Live Stream Video Producer and Trainer
 
-> Provided a rich media live stream video for 1 hour suicide prevention program
+> Provided a rich media live stream video for 1 hour suicide prevention program  
 > Coordinated and planned live event with the host
 > Used Teamviewer tools to remotely control a host computer running the Belive.tv broadcast
 > Trained church staff to stream to YouTube using Live Stream Encoder, add streams to web pages
