@@ -13,7 +13,7 @@ Software Developer with experience producing live video. Experience in the softw
 
 # PROFESSIONAL EXPERIENCE
 
-_(Consultant) Just Text AL - Hawthorne, CA | February, 2019_
+_(Consultant) Just Text AL - Hawthorne, CA | February, 2019_  
 Remote Live Stream Video Producer and Trainer
 
 Provided a rich media live stream video for 1 hour suicide prevention program
@@ -22,7 +22,7 @@ Used Teamviewer tools to remotely control a host computer running the Belive.tv 
 Trained church staff to stream to YouTube using Live Stream Encoder, add streams to web pages
 Implemented multi-casting procedures for live media video workflow for special events for local church
  
-_(Contract) So Cal Gas – A Sempra Energy Utility, Los Angeles, CA | January, 2019_
+_(Contract) So Cal Gas – A Sempra Energy Utility, Los Angeles, CA | January, 2019_  
 Business Analyst 2 / Reports Developer
  
 Responsible for assisting Program Support Services in the operation of So Cal Gas Core Energy Efficiency Programs
@@ -31,7 +31,7 @@ Ensure a high level of data quality and accessibility for business intelligence 
 Proficient with large data management of structured and unstructured data
 Ability to find ways to accomplish the most with the available time and resources
 
-Advent Resources, San Pedro, CA | 10/2014 to 10/2018
+_Advent Resources, San Pedro, CA | 2014 - 2018_
 XML C Programmer / Reports Developer
 
 Supported .NET project in a virtual machine development environment with a project called PCWinLink
@@ -40,14 +40,7 @@ Solved Customer Relationship Management and Dealer Management Systems issues and
 Created custom XMLreports that read PostgreSQL or MySQL data and converted it into an xml format that was readable in XML Excel. Saved custom XML reports changes in SVN subversion.
 Adjusted FTP feed request using Advent Connect and vi text editor by logging into production servers and modifying descriptor files
 
-
-
-
-
-
-
-
-South Bay Auto Auction, Gardena, CA | 4/2013 to 7/2014
+_South Bay Auto Auction, Gardena, CA | 2013 - 2014_
 Software Developer
 
 Created .NET Winforms to keep track of dealers that check into the a car auction day after reviewing Visual Basic version of the previous application
@@ -56,7 +49,7 @@ Diagnose issues with Oregon Hotel operations InnQuest roomMaster.net software fo
 Debugged, Updated, and Redesigned Android Tablet Application with Java Android Development Tools, Eclipse IDE, XML, SQLite, SOAP that uses Web Services to send and obtain data.  Adjusted android program to adapt to changes with business rules.  Web services then connects with a Data Access Layer that then calls stored procedures on an SQL Server.  Created database application development in a wireless communication environment.
 Updated 300 plus pages of Crystal Reports version 8.5 and modified a few more to display more details
 
-Bank of America, Los Angeles, CA | 10/2006 to 4/2010
+_Bank of America, Los Angeles, CA | 2007 - 2010_
 Senior Operations Representative
 
 Internally processed transactions in one or more of the company's internal operations to support domestic and international consumer, commercial and whole sale bank business or service functions.
@@ -66,7 +59,7 @@ Responsibilities include: Basic level reporting, customer service support, revie
 Strong Organization skills that worked with team environment and ability to meet 12:15 AM deadline to process all checks and adjustments
 Effective oral, written, and interpersonal communication skills by using internal web application Performance Management to help manager critic my productivity, accomplishments, and performance.
 
-E7 Architecture Studio, Los Angeles, CA | 9/2008 to 9/2009
+_E7 Architecture Studio, Los Angeles, CA | 2009_
 Software Developer
 
 Restructured a database with Microsoft Transact-SQL Server program and used stored procedures in Microsoft SQL Management Studio to improve Aesthetic Guidelines Database by restructured tables to remove redundant data
@@ -75,18 +68,17 @@ Created and maintained technical documentation with a Web Navigation Tool with e
 Wrote technical documentation on extJS, Oracle, PL/SQL, PHP, Silver Light, Transact-SQL, Microsoft SQL Management Studio 2005, and Active Server Pages .NET so knowledge transfer occurs to train incoming junior developers
 Developed PL / SQL Oracle Dynamic SQL and Metadata to implement a viable solution to combine several Oracle 10g database tables using Oracle views and Oracle SQL Developer.
 
-PROJECTS
+# PROJECTS
 
-California State University, Los Angeles, CA | 11/2018 to Present
+_California State University, Los Angeles, CA | 11/2018 to Present_
 Mentor for College of Engineering, Computer Science, Technology
 
 Guided career path of professionals in the field of Computer Science to focus their efforts in certain activities and goals
 
-Inglewood Southside Christian Church, Inglewood, CA | 9/2010 to Present
+_Inglewood Southside Christian Church, Inglewood, CA | 9/2010 to Present_
 Technology Consultant
 
-Sample of work that helps my local church watch sermons from home
-
+Sample of work that helps my local church congrgation watch sermons from home
 Maintained Wordpress site with archived live streamed services via Youtube Live since July 2016
 Programmed Open Broadcast System workflow to live stream to Youtube Live at a push of one button
 Created new mix scenes on Allen and Heath Qu24 soundboard mixer for special events
