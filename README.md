@@ -1,21 +1,19 @@
-SUMMARY
-
 Software Developer with experience producing live video. Experience in the software development life cycle. Can listen, document, and communicate solutions to complex technical problems. Exposure to automotive, banking, and energy industries. Experienced with reporting systems in large databases. Can produce sales or inventory reports for many audiences. Updated features of an Android tablet application using Java and Eclipse. Tracked and removed errors in financial transaction code. Created simplified livestream workflows. Wrote technical documentation for production code in PL-SQL, PHP, and JavaScript.
 
-SKILLS
+# SKILLS
 
-Programming: Java, C, C++, C# .NET, PHP, SQL
-Database Systems: Microsoft SQL Server, Oracle, MySQL, PostgreSQL
-Web Servers: Internet Information Services (IIS), Apache Web Server (PHP), Apache Tomcat (JSP, Servlets)
-Content Management Systems: Microsoft SharePoint, Wordpress, Orchard
-Programming Software: Microsoft Visual Studio (Visual Basic, C++, ASP.NET), Microsoft SQL Management Studio (Transact-SQL), Oracle SQL Developer (PL/SQL), Crystal Reports, SQL Report Builder
-Operating systems: Windows, Windows Server, Mac OS, Linux Red Hat Enterprise / CentOS
-Virtualization: VMware ESX 3.5 Server, VMware Workstation, Sun xVM VirtualBox
+**Programming:** Java, C, C++, C# .NET, PHP, SQL
+**Database Systems:** Microsoft SQL Server, Oracle, MySQL, PostgreSQL
+**Web Servers:** Internet Information Services (IIS), Apache Web Server (PHP), Apache Tomcat (JSP, Servlets)
+**Content Management Systems:** Microsoft SharePoint, Wordpress, Orchard
+**Programming Software:** Microsoft Visual Studio (Visual Basic, C++, ASP.NET), Microsoft SQL Management Studio (Transact-SQL), Oracle SQL Developer (PL/SQL), Crystal Reports, SQL Report Builder
+**Operating systems:** Windows, Windows Server, Mac OS, Linux Red Hat Enterprise / CentOS
+**Virtualization:** VMware ESX 3.5 Server, VMware Workstation, Sun xVM VirtualBox
 
 
-PROFESSIONAL EXPERIENCE
+# PROFESSIONAL EXPERIENCE
 
-(Consultant) Just Text AL - Hawthorne, CA | 2/2019 to Present
+_(Consultant) Just Text AL - Hawthorne, CA | February, 2019_
 Remote Live Stream Video Producer and Trainer
 
 Provided a rich media live stream video for 1 hour suicide prevention program
@@ -24,7 +22,7 @@ Used Teamviewer tools to remotely control a host computer running the Belive.tv 
 Trained church staff to stream to YouTube using Live Stream Encoder, add streams to web pages
 Implemented multi-casting procedures for live media video workflow for special events for local church
  
-(Contract) So Cal Gas – A Sempra Energy Utility, Los Angeles, CA | 1/11/2019 to 2/1/2019
+_(Contract) So Cal Gas – A Sempra Energy Utility, Los Angeles, CA | January, 2019_
 Business Analyst 2 / Reports Developer
  
 Responsible for assisting Program Support Services in the operation of So Cal Gas Core Energy Efficiency Programs
