@@ -16,11 +16,11 @@ Software Developer with experience producing live video. Experience in the softw
 _(Consultant) Just Text AL - Hawthorne, CA | February, 2019_  
 Remote Live Stream Video Producer and Trainer
 
-Provided a rich media live stream video for 1 hour suicide prevention program
-Coordinated and planned live event with the host
-Used Teamviewer tools to remotely control a host computer running the Belive.tv broadcast
-Trained church staff to stream to YouTube using Live Stream Encoder, add streams to web pages
-Implemented multi-casting procedures for live media video workflow for special events for local church
+* Provided a rich media live stream video for 1 hour suicide prevention program
+* Coordinated and planned live event with the host
+* Used Teamviewer tools to remotely control a host computer running the Belive.tv broadcast
+* Trained church staff to stream to YouTube using Live Stream Encoder, add streams to web pages
+* Implemented multi-casting procedures for live media video workflow for special events for local church
  
 _(Contract) So Cal Gas – A Sempra Energy Utility, Los Angeles, CA | January, 2019_  
 Business Analyst 2 / Reports Developer
