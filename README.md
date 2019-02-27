@@ -33,7 +33,7 @@ Business Analyst 2 / Reports Developer
 > Proficient with large data management of structured and unstructured data  
 > Ability to find ways to accomplish the most with the available time and resources  
 
-_Advent Resources, San Pedro, CA | 2014 - 2018_
+_Advent Resources, San Pedro, CA | 2014 - 2018_  
 XML C Programmer / Reports Developer
 
 > Supported .NET project in a virtual machine development environment with a project called PCWinLink  
@@ -42,7 +42,7 @@ XML C Programmer / Reports Developer
 > Created custom XMLreports that read PostgreSQL or MySQL data and converted it into an xml format that was readable in XML Excel. Saved custom XML reports changes in SVN subversion.  
 > Adjusted FTP feed request using Advent Connect and vi text editor by logging into production servers and modifying descriptor files  
 
-_South Bay Auto Auction, Gardena, CA | 2013 - 2014_
+_South Bay Auto Auction, Gardena, CA | 2013 - 2014_  
 Software Developer
 
 > Created .NET Winforms to keep track of dealers that check into the a car auction day after reviewing Visual Basic version of the previous application  
@@ -51,7 +51,7 @@ Software Developer
 > Debugged, Updated, and Redesigned Android Tablet Application with Java Android Development Tools, Eclipse IDE, XML, SQLite, SOAP that uses Web Services to send and obtain data.  Adjusted android program to adapt to changes with business rules.  Web services then connects with a Data Access Layer that then calls stored procedures on an SQL Server.  Created database application development in a wireless communication environment.  
 > Updated 300 pages of Crystal Reports version 8.5 and modified a few more to display more details  
 
-_Bank of America, Los Angeles, CA | 2007 - 2010_
+_Bank of America, Los Angeles, CA | 2007 - 2010_  
 Senior Operations Representative
 
 > Internally processed transactions in one or more of the company's internal operations to support domestic and international consumer, commercial and whole sale bank business or service functions.  
@@ -61,7 +61,7 @@ Senior Operations Representative
 > Strong Organization skills that worked with team environment and ability to meet 12:15 AM deadline to process all checks and adjustments  
 > Effective oral, written, and interpersonal communication skills by using internal web application Performance Management to help manager critic my productivity, accomplishments, and performance.  
 
-_E7 Architecture Studio, Los Angeles, CA | 2009_
+_E7 Architecture Studio, Los Angeles, CA | 2009_  
 Software Developer
 
 > Restructured a database with Microsoft Transact-SQL Server program and used stored procedures in Microsoft SQL Management Studio to improve Aesthetic Guidelines Database by restructured tables to remove redundant data  
@@ -72,12 +72,12 @@ Software Developer
 
 # PROJECTS
 
-_California State University, Los Angeles, CA | 11/2018 to Present_
+_California State University, Los Angeles, CA | 11/2018 to Present_  
 Mentor for College of Engineering, Computer Science, Technology
 
 > Guided career path of professionals in the field of Computer Science to focus their efforts in certain activities and goals
 
-_Inglewood Southside Christian Church, Inglewood, CA | 9/2010 to Present_
+_Inglewood Southside Christian Church, Inglewood, CA | 9/2010 to Present_  
 Technology Consultant
 
 > Sample of work that helps my local church congrgation watch sermons from home  
@@ -93,7 +93,8 @@ Technology Consultant
 
 # EDUCATION
 
-_2011 Bachelor’s Computer Science, California State University, Los Angeles_
+_Bachelor’s Computer Science, 2011_
+California State University, Los Angeles
 
 > Software Engineering  
 > C++ Foundations of Computer Graphics  
