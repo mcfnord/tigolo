@@ -7,8 +7,8 @@ Software Developer with experience producing live video. Experience in the softw
  |**Web Servers** | Internet Information Services (IIS), Apache Web Server (PHP), Apache Tomcat (JSP, Servlets) |
  |**Content Management Systems** | Microsoft SharePoint, Wordpress, Orchard |
  |**Programming Software** | Microsoft Visual Studio (Visual Basic, C++, ASP.NET), Microsoft SQL Management Studio (Transact-SQL), Oracle SQL Developer (PL/SQL), Crystal Reports, SQL Report Builder |
-|**Operating systems** | Windows, Windows Server, Mac OS, Linux Red Hat Enterprise / CentOS |
-|**Virtualization** | VMware ESX 3.5 Server, VMware Workstation, Sun xVM VirtualBox |
+ |**Operating systems** | Windows, Windows Server, Mac OS, Linux Red Hat Enterprise / CentOS |
+ |**Virtualization** | VMware ESX 3.5 Server, VMware Workstation, Sun xVM VirtualBox |
 
 
 # PROFESSIONAL EXPERIENCE
