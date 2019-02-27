@@ -2,7 +2,7 @@ Software Developer with experience producing live video. Experience in the softw
 
 # SKILLS
 
-| **SKILL** | |
+| **SKILL** | Technologies |
  |----------------|------------------------------|
  | **Programming** | Java, C, C++, C# .NET, PHP, SQL |
  |**Database Systems** | Microsoft SQL Server, Oracle, MySQL, PostgreSQL |
