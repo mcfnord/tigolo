@@ -89,7 +89,7 @@ Configured wireless bridge between two routers so the sound booth area has inter
 
 
 
-EDUCATION
+# EDUCATION
 
 2011 Bachelor’s Computer Science, California State University, Los Angeles
 Software Engineering
