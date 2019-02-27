@@ -93,7 +93,7 @@ Technology Consultant
 
 # EDUCATION
 
-_Bachelor’s Computer Science, 2011_
+_Bachelor’s Computer Science, 2011_  
 California State University, Los Angeles
 
 > Software Engineering  
