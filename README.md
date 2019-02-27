@@ -19,19 +19,19 @@ _(Consultant) Just Text AL - Hawthorne, CA | February, 2019_
 Remote Live Stream Video Producer and Trainer
 
 > Provided a rich media live stream video for 1 hour suicide prevention program  
-> Coordinated and planned live event with the host
-> Used Teamviewer tools to remotely control a host computer running the Belive.tv broadcast
-> Trained church staff to stream to YouTube using Live Stream Encoder, add streams to web pages
-> Implemented multi-casting procedures for live media video workflow for special events for local church
+> Coordinated and planned live event with the host  
+> Used Teamviewer tools to remotely control a host computer running the Belive.tv broadcast  
+> Trained church staff to stream to YouTube using Live Stream Encoder, add streams to web pages  
+> Implemented multi-casting procedures for live media video workflow for special events for local church  
  
 _(Contract) So Cal Gas – A Sempra Energy Utility, Los Angeles, CA | January, 2019_  
 Business Analyst 2 / Reports Developer
  
-> Responsible for assisting Program Support Services in the operation of So Cal Gas Core Energy Efficiency Programs
-> Provide transactional support ability to run ad-hoc XML reports
-> Ensure a high level of data quality and accessibility for business intelligence and XML data analytics applications
-> Proficient with large data management of structured and unstructured data
-> Ability to find ways to accomplish the most with the available time and resources
+> Responsible for assisting Program Support Services in the operation of So Cal Gas Core Energy Efficiency Programs  
+> Provide transactional support ability to run ad-hoc XML reports  
+> Ensure a high level of data quality and accessibility for business intelligence and XML data analytics applications  
+> Proficient with large data management of structured and unstructured data  
+> Ability to find ways to accomplish the most with the available time and resources  
 
 _Advent Resources, San Pedro, CA | 2014 - 2018_
 XML C Programmer / Reports Developer
