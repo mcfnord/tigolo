@@ -1,4 +1,6 @@
-# Alfredo Tigolo
+# Alfredo Tigolo  
+_alfredo.tigolo@yahoo.com_  
+_424-646-3493_  
 
 Software Developer with experience producing live video. Experience in the software development life cycle. Can listen, document, and communicate solutions to complex technical problems. Exposure to automotive, banking, and energy industries. Experienced with reporting systems in large databases. Can produce sales or inventory reports for many audiences. Updated features of an Android tablet application using Java and Eclipse. Tracked and removed errors in financial transaction code. Created simplified livestream workflows. Wrote technical documentation for production code in PL-SQL, PHP, and JavaScript.
 
