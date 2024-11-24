@@ -24,11 +24,6 @@ I'm a cyber-security professional skilled in technical problem-solving.
 - Remotely tutored Python, Java, and SQL students.  
 - Assisted in labs, ensuring students mastered key programming concepts.  
 
-### **Security Analyst Intern**  
-**Intelligints** | Irvine, CA | **Jun 2021 – Jul 2021**  
-- Configured virtual machines, firewalls, and VPNs using AWS and Palo Alto Networks tools.  
-- Conducted security analysis using SIEM tools and generated threat reports.  
-
 ### **Associate Learning Ambassador**  
 **Amazon** | Hawthorne, CA | **Jun 2019 – Jan 2022**  
 - Trained new hires and developed onboarding programs.  
@@ -43,11 +38,6 @@ I'm a cyber-security professional skilled in technical problem-solving.
 **Advent Resources** | San Pedro, CA | **Oct 2014 – Oct 2018**  
 - Developed custom C reports integrated with PostgreSQL and MySQL databases.  
 - Supported .NET applications, adjusted FTP feeds, and resolved client issues.  
-
-### **Database Analyst**  
-**Fox Domestic Home Entertainment** | Century City, CA | **Aug 2014 – Oct 2014**  
-- Streamlined data aggregation and analysis for media projects.  
-- Improved business intelligence through database and reporting solutions.  
 
 ---
 
